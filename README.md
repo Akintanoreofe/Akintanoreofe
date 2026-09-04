@@ -7,15 +7,13 @@
 
 - 🔬 I’m currently focusing on **AI-Driven Non-Destructive Assessment, Computer Vision, and Digital Twins**
 - 🎓 Master of Science in Biosystems Engineering at **Michigan State University**
-- 🌱 I’m continuously expanding my research in **AI Safety, Biological Signal Processing, and Deep Learning**
-- 💬 Ask me about **Python, Computer Vision, Deep Learning, MATLAB, and Renewable Energy Systems**
-- 📫 How to reach me: **Akintano@msu.edu**
+
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_HANDLE](https://www.linkedin.com/in/oreofeoluwa-akintan-66524a198/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.researchgate.net/profile/YOUR_RESEARCHGATE_PROFILE" target="_blank">
