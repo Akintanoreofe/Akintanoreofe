@@ -2,7 +2,7 @@
 <h3 align="center">Biosystems Engineer & AI/ML Researcher</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Akintanoreofe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🔬 I’m currently focusing on **AI-Driven Non-Destructive Assessment, Computer Vision, and Digital Twins**
@@ -16,7 +16,7 @@
   <a href="[https://linkedin.com/in/YOUR_LINKEDIN_HANDLE](https://www.linkedin.com/in/oreofeoluwa-akintan-66524a198/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.researchgate.net/profile/YOUR_RESEARCHGATE_PROFILE" target="_blank">
+  <a href="[https://www.researchgate.net/profile/YOUR_RESEARCHGATE_PROFILE](https://scholar.google.com/citations?user=_zEqmgsAAAAJ&hl=en)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="ResearchGate" height="30" width="40" />
   </a>
 </p>
