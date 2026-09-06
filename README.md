@@ -21,7 +21,6 @@ Master's student in **Biosystems Engineering** at **Michigan State University**,
 
 - Developing self-supervised computer vision models to characterize and classify biological materials from imaging data
 - Building digital twin and reinforcement learning frameworks for adaptive monitoring of biological and environmental systems under uncertainty
-- Background in solar PV system design; B.Eng. in Electrical & Electronics Engineering
 
 ---
 
