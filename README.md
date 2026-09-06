@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Oreofeoluwa+Akintan;Biosystems+Engineer+%26+AI%2FML+Researcher;Computer+Vision+for+Precision+Agriculture;Digital+Twins+%7C+Sensing+%7C+Sustainability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Oreofeoluwa+Akintan;Biosystems+Engineer+%26+AI%2FML+Researcher;AI-Driven+Decision+Support+for+Biological+Systems;Digital+Twins+%7C+Sensing+%7C+Uncertainty-Aware+Modeling" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oreofeoluwa-akintan-66524a198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -17,13 +17,17 @@
 
 ### About Me
 
-Master's student in **Biosystems Engineering** at **Michigan State University**, researching **computer vision and sensor-driven decision support** for agriculture.
+Master's student in **Biosystems Engineering** at **Michigan State University**, building **AI-driven decision support systems for complex biological systems** using computer vision, sensor fusion, and uncertainty-aware modeling.
+
+- Developing self-supervised computer vision models to characterize and classify biological materials from imaging data
+- Building digital twin and reinforcement learning frameworks for adaptive monitoring of biological and environmental systems under uncertainty
+- Background in solar PV system design; B.Eng. in Electrical & Electronics Engineering
 
 ---
 
 ### Research Interests
 
-`AI for Precision Agriculture` `Plant Disease & Crop Monitoring` `Optical & Multimodal Sensing` `Computer Vision` `Self-Supervised Learning` `Biosensor-Integrated Systems` `Remote & Proximal Sensing` `High-Throughput Phenotyping` `Controlled Environment Agriculture` `Environmental Automation`
+`AI-Driven Decision Support` `Biological & Environmental Systems` `Computer Vision` `Self-Supervised Learning` `Sensor Fusion & Optical Sensing` `Digital Twins` `Uncertainty-Aware Modeling` `High-Throughput Phenotyping` `Biosensor-Integrated Systems` `Environmental Automation`
 
 ---
 
@@ -89,5 +93,5 @@ Master's student in **Biosystems Engineering** at **Michigan State University**,
 ---
 
 <div align="center">
-  <em>Let's connect. Always open to collaborating on AI-for-agriculture, sensing, and sustainability research.</em>
+  <em>Let's connect. Always open to collaborating on AI-driven decision support for biological and environmental systems.</em>
 </div>
