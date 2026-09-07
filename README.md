@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Oreofeoluwa+Akintan;Biosystems+Engineer+%26+AI%2FML+Researcher;AI-Driven+Decision+Support+for+Biological+Systems;Digital+Twins+%7C+Sensing+%7C+Uncertainty-Aware+Modeling" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vcenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Oreofeoluwa+Akintan;Biosystems+Engineer+%26+AI%2FML+Researcher;AI-Driven+Decision+Support+for+Biological+Systems;Digital+Twins+%7C+Sensing+%7C+Uncertainty-Aware+Modeling" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oreofeoluwa-akintan-66524a198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
