@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vcenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Oreofeoluwa+Akintan;Inter-disciplinary+Engineer+%26+AI%2FML+Researcher;AI-Driven+Decision+Support+for+Biological+Systems;Digital+Twins+%7C+Sensing+%7C+Uncertainty-Aware+Modeling" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vcenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Oreofeoluwa+Akintan;Inter-disciplinary+AI+Researcher;Computer+Vision+%26+ML+Engineer" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oreofeoluwa-akintan-66524a198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://scholar.google.com/citations?user=_zEqmgsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="https://www.researchgate.net/"><img src="[https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white](https://www.researchgate.net/profile/Oreofeoluwa-Akintan/publications)" alt="ResearchGate"/></a>
+  <a href="https://www.researchgate.net/profile/Oreofeoluwa-Akintan"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
   <a href="mailto:Akintano@msu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Akintanoreofe&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Akintanoreofe&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ### About Me
 
-Master's student in **Biosystems Engineering** at **Michigan State University**, building **AI-driven decision support systems for complex biological systems** using computer vision, sensor fusion, and uncertainty-aware modeling.
+Master's student in **Biosystems Engineering** at **Michigan State University**, building **AI-driven decision support systems for complex biological systems** using computer vision, sensor fusion, and machine learning. I'm passionate about leveraging self-supervised learning and digital twins to solve challenges in precision agriculture and environmental monitoring.
 
 - Developing self-supervised computer vision models to characterize and classify biological materials from imaging data
 - Building digital twin and reinforcement learning frameworks for adaptive monitoring of biological and environmental systems under uncertainty
@@ -26,7 +26,7 @@ Master's student in **Biosystems Engineering** at **Michigan State University**,
 
 ### Research Interests
 
-`AI-Driven Decision Support` `Biological & Environmental Systems` `Computer Vision` `Self-Supervised Learning` `Sensor Fusion & Optical Sensing` `Digital Twins` `Uncertainty-Aware Modeling` `High-Throughput Phenotyping` `Biosensor-Integrated Systems` `Environmental Automation`
+`AI-Driven Decision Support` `Biological & Environmental Systems` `Computer Vision` `Self-Supervised Learning` `Sensor Fusion & Optical Sensing` `Digital Twins` `Uncertainty-Aware Modeling` `High-Throughput Phenotyping`
 
 ---
 
